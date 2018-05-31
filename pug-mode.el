@@ -86,7 +86,7 @@ line could be nested within this line.")
              "meta" "meter" "nav" "noframes" "noscript" "object" "ol" "optgroup"
              "option" "output" "p" "param" "pre" "progress" "q" "rp" "rt" "ruby"
              "s" "samp" "script" "section" "select" "small" "source" "span"
-             "strike" "strong" "style" "sub" "sup" "table" "tbody" "td"
+             "strike" "strong" "style" "sub" "sup" "table" "tbody" "td" "template"
              "textarea" "tfoot" "th" "thead" "time" "title" "tr" "tt" "u" "ul"
              "var" "video" "xmp") 'words))
   "Regex of all html4/5 tags.")
